@@ -1,2 +1,2 @@
 # website
-A sample website for Eearn enough GIT To Be Dangerous
+A sample website for Learn enough GIT To Be Dangerous
